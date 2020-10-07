@@ -5,7 +5,7 @@ python AIC2.py -h
 
 usage: AIC2.py [-h] --file FILE [--colums COLUMS] [--scale SCALE] [--moreLevels] [--noTerminal] [--mirror] [--time TIME]
 
-AIC-Auto Image Converter
+AIC-ASCII Image Converter
 
 optional arguments:
   -h, --help            show this help message and exit
