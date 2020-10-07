@@ -18,3 +18,5 @@ optional arguments:
   --noTerminal          Output in terminal
   --mirror, -m          Does mirror effect
   --time TIME, -t TIME  Time between new frame
+INSTALLTION:
+pip3 install numpy argparse
