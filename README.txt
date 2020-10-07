@@ -1,9 +1,9 @@
 #AIC
 ASCIIImageConverter - Python 3 program which converts any video to a text
 
-python AIC2.py -h
+python AIC.py -h
 
-usage: AIC2.py [-h] --file FILE [--colums COLUMS] [--scale SCALE] [--moreLevels] [--noTerminal] [--mirror] [--time TIME]
+usage: AIC.py [-h] --file FILE [--colums COLUMS] [--scale SCALE] [--moreLevels] [--noTerminal] [--mirror] [--time TIME]
 
 AIC-ASCII Image Converter
 
