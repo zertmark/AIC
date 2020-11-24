@@ -8,13 +8,13 @@ usage: AIC.py [-h] --file FILE [--colums COLUMS] [--scale SCALE] [--moreLevels] 
 AIC-ASCII Image Converter
 
 optional arguments:
-  -h, --help            show this help message and exit
+  -h, --help            shows this help message and exit
   --file FILE, -f FILE  File with video(even gif)
   --colums COLUMS, -c COLUMS
                         Size of colums
   --scale SCALE, -s SCALE
                         Scale of font
-  --moreLevels          Use more leves of symbols
+  --moreLevels          Uses more leves of symbols
   --noTerminal          Don't show output in terminal
   --mirror, -m          Does mirror effect
   --time TIME, -t TIME  Time between new frame
