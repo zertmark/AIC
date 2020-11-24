@@ -15,7 +15,7 @@ optional arguments:
   --scale SCALE, -s SCALE
                         Scale of font
   --moreLevels          Use more leves of symbols
-  --noTerminal          Output in terminal
+  --noTerminal          Don't show output in terminal
   --mirror, -m          Does mirror effect
   --time TIME, -t TIME  Time between new frame
 INSTALLTION:
